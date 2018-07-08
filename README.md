@@ -1,2 +1,6 @@
 # CustomPages
 [Pogoda](pogoda.html)
+
+## Important links
+- ...
+- ...
